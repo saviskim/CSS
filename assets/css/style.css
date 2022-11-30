@@ -71,3 +71,15 @@ article img {
     height: 300px;
     object-fit: cover;
 }
+/*цвет фона у каждой четной новости */
+article:nth-child(even) {
+    background-color: rgb(239 239 239 / 77%);
+    }
+    /*селектор  слово "New".*/
+    
+    article:nth-child(-n+2) h2::before {
+        content: "New";
+        padding: 0 5px 0 0;
+        color: #ff0000;
+        font-size: 1rem;
+    }
