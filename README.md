@@ -1,5 +1,5 @@
 # **CSS - Practice **
-![html-logo](/assets/img/logo.webp)
+![html-logo](/assets/img/logo.jpeg)
 ---
 
 ## <b>Так что же такое CSS? </b>
@@ -7,4 +7,5 @@
 
   ---
   ## <b>Создание сайта </b>
-  Добавил страници 
+  1) Создал файлы и папки    
+  
